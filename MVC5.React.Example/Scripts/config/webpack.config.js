@@ -2,7 +2,8 @@ const path = require("path");
  
 module.exports = {
     entry: {
-        index: "./src/index.js"
+        "home-index": "./src/home-index.js",
+        "home-contact": "./src/home-contact.js"
     },
     output: {
         path: path.resolve(__dirname, "../dist"),
