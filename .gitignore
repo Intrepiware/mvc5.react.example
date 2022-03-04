@@ -30,3 +30,4 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/MVC5.React.Example/Scripts/node_modules/*
