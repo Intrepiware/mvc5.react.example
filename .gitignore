@@ -32,3 +32,4 @@ _ReSharper*/
 packages/
 /MVC5.React.Example/Scripts/node_modules/*
 /MVC5.React.Example/Scripts/dist/*
+/Static.React.Example/node_modules/*
