@@ -8,9 +8,9 @@ class ContactComponent extends Component {
         const hour = new Date().getHours();
         if(hour < 12)
             return "Good morning";
-        if(hour < 5)
+        if(hour < 17)
             return "Good afternoon";
-        if(hour < 9)
+        if(hour < 21)
             return "Good evening";
         else
             return "Good night";
